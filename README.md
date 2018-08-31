@@ -1,0 +1,3 @@
+﻿Improved neural use of object-oriented methods this version of the neural network in the function of fitting is automatically adding the number of neurons in the hidden layer the number of layers of the neural network the fitting scheme is in AutoANN\AutoANN\Automaticadjustmentofneuralnetworks\AutomaticAticartificialNeuralNetwork\Description/readme.txt.
+
+The old version is in it：@github.com:mu116699/Neural-Network-function-fitting.git
